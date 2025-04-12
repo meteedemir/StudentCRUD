@@ -23,3 +23,10 @@ A simple **Student Management** CRUD API built with **Spring Boot**, using **Mon
 
 ---
 
+
+## Screen Shot from project
+
+  ![Adsız](https://github.com/user-attachments/assets/362d2b3e-96d6-4d3b-8a2d-4b2d1a43f8fb)
+
+
+
